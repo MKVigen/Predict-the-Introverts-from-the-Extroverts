@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+PEFI_venv/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Data files
+data/raw/*
+data/preprocessed/*
+data/processed/*
+!data/raw/.gitkeep
+!data/preprocessed/.gitkeep
+!data/processed/.gitkeep
+
+# Logs
+*.log
+
+# Mac OS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Submissions
+submissions/*
+!submissions/.gitkeep
