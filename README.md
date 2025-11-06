@@ -36,8 +36,7 @@ project/
 
 ## 📥 Dataset
 Download the dataset from Kaggle:
-https://www.kaggle.com/datasets/nehalbirla/introvert-extrovert-classification
-
+https://www.kaggle.com/c/playground-series-s5e7
 Place the downloaded files here:
 ```
 data/raw/train.csv
